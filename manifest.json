@@ -1,7 +1,11 @@
 {
-    "id": "subscription-tracker",
-    "name": "Subscription Tracker",
-    "version": "1.0.0",
-    "description": "Плагин для отслеживания подписок."
-  }
-  
+	"id": "subscription-control-plugin",
+	"name": "Subscription Control Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sample Plugin For Control Your Subscription",
+	"author": "Vasily Safronov",
+	"authorUrl": "https://github.com/bazilsafronov",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
